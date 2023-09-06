@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE907CAB-3D4D-40EE-92E1-A7266445C30F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A36B806-690C-46A6-97EA-0CC60D7DC632"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCaseHotel/Core/Services/CarouselImageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getImages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B01DD428-A204-40DD-94DA-8477F67DC91D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCaseHotel/Core/Services/CarouselImageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getImages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0E935AD-1344-45DD-A8BB-0D4CE4949BBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCaseHotel/Core/Services/CarouselImageService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getImages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B0E935AD-1344-45DD-A8BB-0D4CE4949BBB - 4e6a6f5a7e17cc90"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TestCaseHotel.CarouselImageService.getImages() -&gt; ()"
+                  moduleName = "TestCaseHotel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrjeris/Desktop/TestCases/TestCaseHotel/TestCaseHotel/Core/Services/CarouselImageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "B0E935AD-1344-45DD-A8BB-0D4CE4949BBB - 4e6a6f5a7e17cc90"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in TestCaseHotel.CarouselImageService.getImages() -&gt; ()"
+                  moduleName = "TestCaseHotel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mrjeris/Desktop/TestCases/TestCaseHotel/TestCaseHotel/Core/Services/CarouselImageService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
